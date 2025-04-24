@@ -4,7 +4,7 @@
 * @brief This file defines the version details of the PMG1 Code Example.
 *
 *******************************************************************************
-* Copyright 2022-2023, Cypress Semiconductor Corporation (an Infineon company) or
+* Copyright 2022-2025, Cypress Semiconductor Corporation (an Infineon company) or
 * an affiliate of Cypress Semiconductor Corporation.  All rights reserved.
 *
 * This software, including source code, documentation and related
@@ -47,7 +47,7 @@
 /**
    @brief Minor version of the PMG1 CE.
  */
-#define PMG1_CE_MINOR_VERSION                                (0)
+#define PMG1_CE_MINOR_VERSION                                (1)
 
 /**
    @brief Patch version of the PMG1 CE.
@@ -58,7 +58,7 @@
    @brief Build number of the PMG1 CE. Base Build number: 0000
           When the value reaches 9999 this shall be reset to 0.
  */
-#define PMG1_CE_BUILD_NUMBER                                 (34)
+#define PMG1_CE_BUILD_NUMBER                                 (35)
 
 /**
  *  @brief Composite PMG1 CE version value.

@@ -1,10 +1,10 @@
 # EZ-PD&trade; PMG1B1 MCU: USBPD battery charger
 
-bThis code example demonstrates 5-cell Li-ion battery charging with USB Type-C attach detection and USB Power Delivery contract negotiation using a single chip EZ-PD™ PMG1-B1 MCU device. The EZ-PD&trade; PMG1-B1 MCU device can negotiate upto 100W (20V @5A) Power Delivery contract with a USB-C source. The EZ-PD&trade PMG1-B1's integrated buck boost peripheral converts the negotiated VBUS power to charge the 5-cell Li-ion battery.
+This code example demonstrates 5-cell Li-ion battery charging with USB Type-C attach detection and USB Power Delivery contract negotiation using a single chip EZ-PD™ PMG1-B1 MCU device. The EZ-PD&trade; PMG1-B1 MCU device can negotiate upto 100W (20V @5A) Power Delivery contract with a USB-C source. The EZ-PD&trade PMG1-B1's integrated buck boost peripheral converts the negotiated VBUS power to charge the 5-cell Li-ion battery.
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-pmg1b1-usbpd-battery-charger)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzMzNTQiLCJTcGVjIE51bWJlciI6IjAwMi0zMzM1NCIsIkRvYyBUaXRsZSI6IkVaLVBEJnRyYWRlOyBQTUcxQjEgTUNVOiBVU0JQRCBiYXR0ZXJ5IGNoYXJnZXIiLCJyaWQiOiJrb25kIiwiRG9jIHZlcnNpb24iOiIxLjAuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJXSVJFRCIsIkRvYyBGYW1pbHkiOiJUWVBFLUMifQ==)
+[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzcwMzEiLCJTcGVjIE51bWJlciI6IjAwMi0zNzAzMSIsIkRvYyBUaXRsZSI6IkVaLVBEJnRyYWRlOyBQTUcxQjEgTUNVOiBVU0JQRCBiYXR0ZXJ5IGNoYXJnZXIiLCJyaWQiOiJrb25kIiwiRG9jIHZlcnNpb24iOiIxLjEuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJXSVJFRCIsIkRvYyBGYW1pbHkiOiJUWVBFLUMifQ==)
 
 ## Requirements
 
@@ -380,11 +380,12 @@ Infineon provides a wealth of data at [www.infineon.com](https://www.infineon.co
 
 ## Document history
 
- Document title: *CE233354* – *EZ-PD&trade; PMG1B1 MCU: USBPD battery charger*
+ Document title: *CE237031* – *EZ-PD&trade; PMG1B1 MCU: USBPD battery charger*
 
  Version | Description of change
  ------- | ---------------------
  1.0.0   | New code example
+ 1.1.0   | Locked to cat-2 PDL 2.15.0 
 
 <br />
 

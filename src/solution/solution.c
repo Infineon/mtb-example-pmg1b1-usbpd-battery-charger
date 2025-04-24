@@ -4,7 +4,7 @@
  * @brief @{Solution source file solution layer port.@}
  *
  *******************************************************************************
- * Copyright 2021-2023, Cypress Semiconductor Corporation (an Infineon company) or
+ * Copyright 2021-2025, Cypress Semiconductor Corporation (an Infineon company) or
  * an affiliate of Cypress Semiconductor Corporation.  All rights reserved.
  *
  * This software, including source code, documentation and related
